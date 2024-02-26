@@ -1,0 +1,1 @@
+MONGO_URL="mongodb+srv://${MONGO_USER}:${MONGO_PASS}@cluster0.oyv3mnc.mongodb.net/?retryWrites=true&w=majority"
